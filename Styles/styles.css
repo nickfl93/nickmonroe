@@ -11,7 +11,7 @@
 	font-family: Haettenschweiler;
 	background-color: rgba(100,100,100,0.5);
 	width: 800px;
-	height: 50;
+	height: 70px;
 	border-width: 5px;
 	border-style: Solid;
 	text-align: center;}
@@ -21,26 +21,20 @@
 	height: 50px;
 	border-width: 2px;
 	border-style: Solid;
-	text-align: center;
-	vertical-align: bottom;}
+	text-align: center;}
     h2.Services {
 	background-color: rgba(255,128,0,0.5);
 	width: 250px;
 	height: 50px;
 	border-width: 2px;
 	border-style: Solid;
-	text-align: center;
-	vertical-align: bottom;}
+	text-align: center;}
     p.intro {}
     p.footer{
 	font-size: 12px;
 	text-align: center;}
     a {
 	text-decoration: none;}
-    ul.nav{
-	list-style-type: none;
-	padding: 0;
-	margin:0;}
     ul.services {
 	width: 300px;
 	height: 100px;

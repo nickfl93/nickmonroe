@@ -9,9 +9,9 @@
     h1 {
 	font-size: 60px;
 	font-family: Haettenschweiler;
-	background-color: rgba(100,255,100,0.5);
+	background-color: rgba(100,100,100,0.5);
 	width: 800px;
-	height: 50;
+	height: 70px;
 	border-width: 5px;
 	border-style: Solid;
 	text-align: center;}

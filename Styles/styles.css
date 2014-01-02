@@ -47,6 +47,17 @@
 	text-align: center;
 	list-style-type: none;
 	padding: 0;
-	margin: 0;
-	//border-width: 2px;
-	//border-style: Solid;}
+	margin: 0;}
+    #navbar ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center;} 
+    #navbar ul li {  
+	display: inline;} 
+    #navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff;} 
+    #navbar ul li a:hover { 
+	color: #000;} 

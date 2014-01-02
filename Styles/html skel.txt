@@ -1,7 +1,13 @@
-<html>
-  <head>
-    <title></title>
-  </head>
-  <body>
-  </body>
-</html>
+    #navbar ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center;} 
+    #navbar ul li {  
+	display: inline;} 
+    #navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff;} 
+    #navbar ul li a:hover { 
+	color: #000;} 

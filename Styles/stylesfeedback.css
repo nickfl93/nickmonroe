@@ -1,0 +1,30 @@
+    body {
+	font-family: Verdana;
+	background-color: rgb(128,128,128);
+	font-size: 16px;}
+    h1, h2, p {
+	color: rgb(0,0,0);}
+    h1, h2 {
+	text-transform: capitalize;}
+    h1 {
+	font-size: 60px;
+	font-family: Haettenschweiler;
+	background-color: rgba(100,100,100,0.5);
+	width: 800px;
+	height: 70px;
+	border-width: 5px;
+	border-style: Solid;
+	text-align: center;}
+    #navbar ul { 
+	margin: 0; 
+	padding: 5px; 
+	list-style-type: none; 
+	text-align: center;} 
+    #navbar ul li {  
+	display: inline;} 
+    #navbar ul li a { 
+	text-decoration: none; 
+	padding: .2em 1em; 
+	color: #fff;} 
+    #navbar ul li a:hover { 
+	color: #000;} 
